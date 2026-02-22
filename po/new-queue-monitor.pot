@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the new-queue-monitor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: new-queue-monitor 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/new_queue_monitor/main.py:66 src/new_queue_monitor/main.py:74
+#: src/new_queue_monitor/main.py:284
+msgid "NEW Queue Monitor"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:79
+msgid "Refresh queue"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:83
+msgid "Filter packages..."
+msgstr ""
+
+#: src/new_queue_monitor/main.py:89 src/new_queue_monitor/main.py:238
+msgid "Settings"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:90
+msgid "Copy Debug Info"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:91
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:92
+msgid "About NEW Queue Monitor"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:111
+msgid "NEW Queue"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:112
+msgid "Click refresh to fetch the Debian FTP NEW queue."
+msgstr ""
+
+#: src/new_queue_monitor/main.py:122
+msgid "Ready"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:137
+msgid "Welcome"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:143
+msgid "Welcome to NEW Queue Monitor"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:144
+msgid ""
+"Watch the Debian NEW queue.\n"
+"\n"
+"✓ Monitor packages in the FTP NEW queue\n"
+"✓ Desktop notifications on status changes\n"
+"✓ Filter by maintainer or package name\n"
+"✓ History of processed packages\n"
+"✓ Auto-refresh support"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:151
+msgid "Get Started"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:174
+msgid "Fetching NEW queue..."
+msgstr ""
+
+#: src/new_queue_monitor/main.py:204
+#, python-format
+msgid "%(count)d packages in NEW queue"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:241
+msgid "Monitoring"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:242
+msgid "Auto-refresh"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:245
+msgid "Refresh interval (minutes)"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:265
+msgid "Debug info copied"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:271
+msgid "General"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:273
+msgid "Quit"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:274
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: src/new_queue_monitor/main.py:291
+msgid ""
+"Monitor the Debian FTP NEW queue with notifications when packages are "
+"accepted or rejected."
+msgstr ""
