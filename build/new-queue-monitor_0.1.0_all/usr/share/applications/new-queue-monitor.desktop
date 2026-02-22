@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=new-queue-monitor
+Comment=GTK4 monitor for Debian FTP NEW queue with notifications
+Exec=new-queue-monitor
+Icon=applications-other-symbolic
+Terminal=false
+Categories=Development;
