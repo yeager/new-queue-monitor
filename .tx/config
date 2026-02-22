@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:danielnylander:p:new-queue-monitor:r:new-queue-monitor-pot]
+[o:danielnylander:p:new-queue-monitor:r:new_queue_monitor]
 file_filter = po/<lang>.po
 source_file = po/new-queue-monitor.pot
 source_lang = en
