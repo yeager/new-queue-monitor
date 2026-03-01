@@ -1,0 +1,23 @@
+Source: new-queue-monitor
+Section: devel
+Priority: optional
+Maintainer: Daniel Nylander <daniel@danielnylander.se>
+Build-Depends: debhelper-compat (= 13),
+               dh-python,
+               python3-all,
+               python3-setuptools,
+               pybuild-plugin-pyproject
+Standards-Version: 4.7.0
+Homepage: https://github.com/yeager/new-queue-monitor
+Vcs-Git: https://github.com/yeager/new-queue-monitor.git
+Vcs-Browser: https://github.com/yeager/new-queue-monitor
+
+Package: new-queue-monitor
+Architecture: all
+Depends: ${python3:Depends},
+         ${misc:Depends},
+         python3-gi,
+         gir1.2-gtk-4.0,
+         gir1.2-adw-1
+Description: GTK4 monitor for Debian FTP NEW queue
+ GTK4/Adwaita application to monitor the Debian FTP NEW queue\n with desktop notifications. Tracks package status and provides\n real-time updates when packages enter or leave the queue.
